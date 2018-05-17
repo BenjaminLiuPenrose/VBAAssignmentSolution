@@ -1,0 +1,5 @@
+Open Excel File and click "RunPortfolio"
+Click "ClearContent" to remove all values from the clicking "RunPortfolio"
+
+VBA code can be viewed in Excel (Alt+F11)
+The original code can be viewed in *.vbs
