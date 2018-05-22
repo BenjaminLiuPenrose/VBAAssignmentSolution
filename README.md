@@ -1,2 +1,2 @@
 # VBAAssignmentSolution
-My solution to VBA assignment
+Solution to VBA course
