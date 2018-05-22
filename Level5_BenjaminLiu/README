@@ -1,4 +1,5 @@
-Open Excel File and go through questions 1 to 3
+Open Excel File and input data in tab "Input"
+Click on RunReport and view report in tab "Report" and "Output"
 
 VBA code can be viewed in Excel (Alt+F11)
-The original code can be viewed in *.vbs
+The original code can be viewed in folder /Assets/*
