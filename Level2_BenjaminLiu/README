@@ -1,4 +1,6 @@
-Just open the EXcel file to test the homework questions
+Just open the Excel file to test the homework questions
+Questions are answer sequencially
 
-The code can be found in the excel
-The original code is in all the *.vbs file
+Excel file contants the code in Utils
+File Utils.bas is exactly the same code
+Folder ols_assets, you may want to ignore it
